@@ -1,4 +1,5 @@
-# Engenharia de Software 1 - Thiago Barone (Instituto Federal de São Paulo)
+# Engenharia de Software 1 
+Thiago Barone - IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo)
 
 # Sistema de Gerenciamento de Serviços de TI 
 Sistema web desenvolvido em React para gerenciar serviços de informatica prestados por empresas de TI, inclui cadastro de cliente, solicitação de serviço, avaliação de serviços de orçamentos e entre outros.
@@ -12,5 +13,10 @@ Sistema web desenvolvido em React para gerenciar serviços de informatica presta
 - CSS3
 
 # Úteis
-npm install
-npm run dev 
+- npm install
+- npm run dev 
+
+# Outros
+Se você tem alguma dúvida ou sugestão pra esse repositório, entre em contato comigo através de: thiagobarone4@gmail.com
+
+Obrigado pela atenção
